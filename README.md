@@ -7,6 +7,10 @@ This repository contains resources and documentation related to OAuth 2.0 and Op
 - **oauth.xmind**: Mind Map for OAuth 2.0
 - **oauth 2.0.svg**: SVG diagram and illustration for OAuth 2.0
 
+### OAuth 2.0 Diagram
+
+![OAuth 2.0 Flow Diagram](oauth%202.0.svg)
+
 ## OAuth 2.0
 
 OAuth 2.0 is a standard protocol for authorization that enables applications to obtain limited access to user resources on an HTTP service. It is widely used for API access and allows users to grant third-party applications access to their resources without sharing their credentials.
